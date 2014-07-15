@@ -1,0 +1,11 @@
+[taggg]
+സൗരയൂഥം പിന്നിട്ട മനുഷ്യനിര്‍മിതപേടകമെന്ന ചരിത്രപദവി null വോയജര്‍ സ്വന്തം .  = N_NN_O_NU RB V_VM_VNF N_NN_O_NU DM_DMD N_NN_S_NU PR_PRF RD_PUNC 
+36 വര്‍ഷത്തെ നീണ്ട പ്രയാണത്തിനൊടുവില്‍ null പേടകം സൗരയൂഥം അതിര്‍ത്തി കടന്ന് നക്ഷത്രാന്തരലോകം കടന്ന കാര്യം നാസ ഔദ്യോഗികം സ്ഥിരീകരിച്ചു .  = QT_QTC N_NN JJ N_NN_S_NU DM_DMD N_NN_O_NU N_NN V_VM_VF V_VM_VNF N_NN V_VM_VNF N_NN N_NN QT_QTF V_VM_VF RD_PUNC 
+വോയജര്‍ പേടകം സൗരയൂഥം കടന്നോ എന്ന തര്‍ക്കം ഗവേഷകലോകം മുറുകുന്നതിനിടെ വോയജര്‍ പേടകം യാത്ര വോയജര്‍ ആകാശഗംഗയുടെ അനന്തതയിലൂടെയാകുമെന്ന് നാസ വെളിപ്പെടുത്തിയത് .  = N_NNP N_NN_S_NU N_NNP_O_NU V_VAUX CC_CCD N_NN N_NN N_NN DM_DMD N_NN_S_NU N_NN_O_NU DM_DMD N_NN V_VM_VNF N_NN V_VM_VNF RD_PUNC 
+1977 ലാൺ നാസ വോയജര്‍ പേടകം വിക്ഷേപിച്ചത് .  = QT_QTC N_NN N_NN DM_DMD N_NN_O_NU V_VM_VF RD_PUNC 
+1877 കോടി കിലോമീറ്റര്‍ സഞ്ചരിച്ചാണ് കോടി പേടകം കോടി സൗരയൂഥം അതിര്‍ത്തി കടന്നിരിക്കുന്നത് .  = QT_QTC N_NNP_S_M N_NN V_VAUX DM_DMD N_NN_S_NU DM_DMD N_NN_O_NU V_VM_VF V_VM_VF RD_PUNC 
+നിലവില്‍ മണിക്കൂറില്‍ 59000 കിലോമീറ്റര്‍ വേഗത്തിലാണ് വോയജര്‍ സഞ്ചരിക്കുന്നത് .  = N_NNP N_NN_S_NU QT_QTC N_NN V_VAUX N_NNP_O_NU V_VM_VNF RD_PUNC 
+ഭൂമിയില്‍ നിന്നയയ്ക്കുന്ന നിര്‍ദേശങ്ങള്‍ പേടകത്തിലെത്താന്‍ 17 മണിക്കൂര്‍ സമയം വേണം .  = N_NN V_VM_VNF N_NN_O_NU N_NNP_O_NU QT_QTC N_NNP N_NN_O_NU V_VM_VF RD_PUNC 
+ഹാലിയുടെ വാല്‍നക്ഷത്രം ദീര്‍ഘവാര്‍ത്തുള ഭ്രമണപത്തിലാണ് സൂര്യനെ ചുറ്റുന്നത് .  = N_NNP N_NN_O_NU N_NN V_VAUX N_NN V_VM_VNF RD_PUNC 
+ഹാലിയുടെ ഹാലിയുടെ ഒരു തവണ സൂര്യനെ പരിക്രമണം ചെയ്യാന്‍ 75 വര്‍ഷം വേണം .  = DM_DMD DM_DMD_S_NU QT_QTC N_NN N_NN N_NN_O_NU V_VM_VNF QT_QTC N_NN V_VM_VF RD_PUNC 
+സൂര്യനടുത്തെത്തുമ്പോഴേക്കും ഇത്തരം ധൂമകേതുക്കളുടെ വാലിന് ദൈര്‍ഘ്യമേറുന്നു .  = N_NN_S_M JJ N_NN V_VM_VNF V_VM_VF RD_PUNC 

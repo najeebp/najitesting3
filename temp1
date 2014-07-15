@@ -1,0 +1,23 @@
+%% TnT statistically tagged file, Tue May 27 10:23:34 2014
+%% lexicon     : corpus.lex
+%% ngrams      : corpus.123
+%% corpus      : qaotest
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.940293e-01   lambda2 = 2.692814e-01   lambda3 = 5.366894e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 9.390013e-02
+%% Thorsten Brants, thorsten@brants.net
+ആര്		N_NN
+ഉടെ		N_NN
+വാല്‍നക്ഷത്രം	N_NN_O_NU
+ദീര്‍ഘവാര്‍ത്തുള	N_NN
+ഭ്രമണപത്തിലാണ്	V_VAUX
+സൂര്യനെ	N_NN
+ചുറ്റുന്നത്	V_VM_VNF
+.			RD_PUNC
+
+%% 7 (87.50%) unknown tokens
+%% avg. 24.50 tags/token, 4.00 tags/known token

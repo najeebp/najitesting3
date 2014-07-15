@@ -1,0 +1,11 @@
+1. സൗരയൂഥം N_NN_O_NU\പിന്നിട്ട RB\മനുഷ്യനിര്‍മിതപേടകമെന്ന V_VM_VNF\ചരിത്രപദവി N_NN_O_NU\ഇനി DM_DMD\വോയജര്‍ N_NN_S_NU\സ്വന്തം PR_PRF\
+2. RD_PUNC\36 QT_QTC\വര്‍ഷത്തെ N_NN\നീണ്ട JJ\പ്രയാണത്തിനൊടുവില്‍ N_NN_S_NU\ആ DM_DMD\പേടകം N_NN_O_NU\സൗരയൂഥം N_NN\അതിര്‍ത്തി V_VM_VF\കടന്ന് V_VM_VNF\നക്ഷത്രാന്തരലോകം N_NN\കടന്ന V_VM_VNF\കാര്യം N_NN\നാസ N_NN\ഔദ്യോഗികം QT_QTF\സ്ഥിരീകരിച്ചു V_VM_VF\
+3. RD_PUNC\വോയജര്‍ N_NNP\പേടകം N_NN_S_NU\സൗരയൂഥം N_NNP_O_NU\കടന്നോ V_VAUX\എന്ന CC_CCD\തര്‍ക്കം N_NN\ഗവേഷകലോകം N_NN\മുറുകുന്നതിനിടെ N_NN\ആ DM_DMD\പേടകം N_NN_S_NU\യാത്ര N_NN_O_NU\ഇനി DM_DMD\ആകാശഗംഗയുടെ N_NN\അനന്തതയിലൂടെയാകുമെന്ന് V_VM_VNF\നാസ N_NN\വെളിപ്പെടുത്തിയത് V_VM_VNF\
+4. RD_PUNC\1977 QT_QTC\ലാൺ N_NN\നാസ N_NN\ആ DM_DMD\പേടകം N_NN_O_NU\വിക്ഷേപിച്ചത് V_VM_VF\
+5. RD_PUNC\1877 QT_QTC\കോടി N_NNP_S_M\കിലോമീറ്റര്‍ N_NN\സഞ്ചരിച്ചാണ് V_VAUX\ആ DM_DMD\പേടകം N_NN_S_NU\ഇപ്പോള്‍ DM_DMD\സൗരയൂഥം N_NN_O_NU\അതിര്‍ത്തി V_VM_VF\കടന്നിരിക്കുന്നത് V_VM_VF\
+6. RD_PUNC\നിലവില്‍ N_NNP\മണിക്കൂറില്‍ N_NN_S_NU\59000 QT_QTC\കിലോമീറ്റര്‍ N_NN\വേഗത്തിലാണ് V_VAUX\വോയജര്‍ N_NNP_O_NU\സഞ്ചരിക്കുന്നത് V_VM_VNF\
+7. RD_PUNC\ഭൂമിയില്‍ N_NN\നിന്നയയ്ക്കുന്ന V_VM_VNF\നിര്‍ദേശങ്ങള്‍ N_NN_O_NU\പേടകത്തിലെത്താന്‍ N_NNP_O_NU\17 QT_QTC\മണിക്കൂര്‍ N_NNP\സമയം N_NN_O_NU\വേണം V_VM_VF\
+8. RD_PUNC\ഹാലിയുടെ N_NNP\വാല്‍നക്ഷത്രം N_NN_O_NU\ദീര്‍ഘവാര്‍ത്തുള N_NN\ഭ്രമണപത്തിലാണ് V_VAUX\സൂര്യനെ N_NN\ചുറ്റുന്നത് V_VM_VNF\
+9. RD_PUNC\ഹാലിയുടെ DM_DMD\വാല്‍നക്ഷത്രത്തിന് DM_DMD_S_NU\ഒരു QT_QTC\തവണ N_NN\സൂര്യനെ N_NN\പരിക്രമണം N_NN_O_NU\ചെയ്യാന്‍ V_VM_VNF\75 QT_QTC\വര്‍ഷം N_NN\വേണം V_VM_VF\
+10. RD_PUNC\സൂര്യനടുത്തെത്തുമ്പോഴേക്കും N_NN_S_M\ഇത്തരം JJ\ധൂമകേതുക്കളുടെ N_NN\വാലിന് V_VM_VNF\ദൈര്‍ഘ്യമേറുന്നു V_VM_VF\
+11. RD_PUNC\\\

@@ -1,0 +1,46 @@
+f_in = open('spacee.txt', 'r')
+text = f_in.read()
+f_in.close()
+word_list={}
+word_list=text.split("\\")
+#for word in word_list:
+	#print word
+
+#no_of_words=len(word_list)
+w={}
+dict_ana={}
+dict ={'N_NNP':'null'}
+f_out = open('qweryqwery.txt','w')
+print len(word_list)
+for word in word_list:
+	w=word.split()
+       # f_out = open('qweryqwery.txt', 'w')
+        #f_out.write(w[0])
+	str1=""
+	if word is str1:
+		w=['null','null']    	
+	l=len(w)
+	#print w[0]
+	str2='null'
+	if w[0] is str2:
+		break
+	str3=w[1]
+        print w[0] 
+        f_out.write(w[0])
+        if(str3.startswith("N_")):
+		if str3.startswith("N_NNP"):
+			dict['N_NNP']=w[0]
+			print "result" , dict['N_NNP']
+	elif str3.startswith("JJ"):
+		dict['JJ']=w[0]
+		print "res" , dict['JJ']
+dict['JJ']=dict['N_NNP']
+print "ressssssss" , dict['JJ']
+f_out = open('qwery.txt', 'w')
+f_out.write(dict['JJ'])
+
+        # else:
+	#	continue	
+         
+
+
